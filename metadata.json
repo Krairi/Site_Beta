@@ -1,0 +1,5 @@
+{
+  "name": "GIVD - Gestionnaire Intelligent",
+  "description": "Gestionnaire Intelligent de Vie Domestique. Suivi de stock, tickets de caisse et consommation en temps réel avec une interface néo-minimaliste.",
+  "requestFramePermissions": []
+}
